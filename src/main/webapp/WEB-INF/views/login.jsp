@@ -49,6 +49,8 @@ input[type="text"], input[type="password"] {
 			<label for="u_pw">PW :</label> <input type="password" name="user_pw" /><br/>
 			<div class="btn">
 				<input type="submit" value="로그인" />
+				<input type="submit" value="로그인" />
+				<input type="submit" value="로그인" />
 			</div>
 		</div>
 	</form>
